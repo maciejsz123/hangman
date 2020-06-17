@@ -1,3 +1,6 @@
 #hangman
 
-sass react redux API from herokuapp
+react 
+redux 
+sass 
+wordnik API
